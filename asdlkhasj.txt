@@ -1,8 +1,11 @@
 
+<<<<<<< HEAD
 a Dasd 
 aDS
 a
 d
 A SDASDAsda
+=======
+>>>>>>> 5195180e1c11df2ec290b0676114805e434de0a5
 
 aasdf as asd asd as
